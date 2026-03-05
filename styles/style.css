@@ -134,7 +134,7 @@ ol {
 }
 
 .search-form__textfield::placeholder {
-  color: #999999;
+  color: rgba(255, 255, 255, 0.4);
 }
 
 .search-form__textfield:focus {
