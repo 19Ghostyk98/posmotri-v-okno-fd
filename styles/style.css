@@ -134,7 +134,7 @@ ol {
 }
 
 .search-form__textfield::placeholder {
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(255, 255, 255, 0.7);
 }
 
 .search-form__textfield:focus {
@@ -259,10 +259,10 @@ ol {
   line-height: 1.05;
   color: #fff;
   margin: 0;
-  line-clamp: 3;
-  -webkit-line-clamp: 3;
   display: -webkit-box;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
+  line-clamp: 3;
   overflow: hidden;
   max-height: 50px;
 }
