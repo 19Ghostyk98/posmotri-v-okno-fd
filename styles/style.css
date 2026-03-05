@@ -86,8 +86,8 @@ ol {
   align-items: flex-start;
   gap: 10px;
   width: 711px;
-  margin-top: 30px;
-  margin-bottom: 5px;
+  margin-top: 40px;
+  margin-bottom: 10px;
 }
 
 .search-form__fieldset {
