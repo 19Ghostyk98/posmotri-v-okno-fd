@@ -147,26 +147,18 @@ ol {
 }
 
 .search-form__pseudo-checkbox {
-  display: inline-block;
-  width: 19px;
-  height: 19px;
-  border: 1px solid #fff;
-  background-color: transparent;
-  position: relative;
+    display: inline-block;
+    width: 19px;
+    height: 19px;
+    border: 1px solid #fff;
+    padding: 1px;
+    background-clip: content-box;
+    background-color: transparent;
+    transition: background-color 0.1s ease;
 }
 
-.search-form__pseudo-checkbox::after {
-  content: "";
-  display: block;
-  position: absolute;
-  inset: 1px;
-  background-color: #fff;
-  opacity: 0;
-  transition: opacity 0.1s ease;
-}
-
-.search-form__checkbox:checked + .search-form__pseudo-checkbox::after {
-  opacity: 1;
+.search-form__checkbox:checked + .search-form__pseudo-checkbox {
+    background-color: #fff;
 }
 
 .search-form__label:hover .search-form__label-text {
