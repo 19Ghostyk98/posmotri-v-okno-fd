@@ -64,7 +64,7 @@ ol {
 }
 
 .result {
-  padding-bottom: 20px;
+  padding-bottom: 30px;
 }
 
 .result__video-container {
@@ -86,7 +86,7 @@ ol {
   align-items: flex-start;
   gap: 10px;
   width: 711px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .search-form__fieldset {
