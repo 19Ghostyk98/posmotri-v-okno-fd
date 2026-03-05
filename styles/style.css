@@ -192,6 +192,7 @@ ol {
   line-height: 0.94;
   text-transform: uppercase;
   color: #fff;
+  margin-top: 3px;
 }
 
 .content__accent {
