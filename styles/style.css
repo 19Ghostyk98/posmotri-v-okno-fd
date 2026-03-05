@@ -60,7 +60,7 @@ ol {
   width: 100%;
   max-width: 1140px;
   padding: 50px 0;
-  margin-top: 50px;
+  margin-top: 57px;
 }
 
 .result {
@@ -192,7 +192,6 @@ ol {
   line-height: 0.94;
   text-transform: uppercase;
   color: #fff;
-  margin-top: 3px;
 }
 
 .content__accent {
