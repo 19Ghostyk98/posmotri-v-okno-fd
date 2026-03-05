@@ -86,13 +86,14 @@ ol {
   align-items: flex-start;
   gap: 10px;
   width: 711px;
-  margin-top: 30px;
+  margin-top: 20px;
+  margin-bottom: 15px;
 }
 
 .search-form__fieldset {
   border: none;
   padding: 0;
-  margin: 0;
+  margin: 0 ;
 }
 
 .search-form__fieldset-title {
