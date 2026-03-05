@@ -211,7 +211,7 @@ ol {
 .content__list {
   display: flex;
   flex-direction: column;
-  gap: 27px;
+  gap: 28px;
   width: 100%;
   list-style: none;
   margin: 0;
@@ -245,7 +245,7 @@ ol {
   line-height: 1;
   text-transform: uppercase;
   color: #fff;
-  margin: 0 0 6px 0;
+  margin: 0 0 3px 0;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
