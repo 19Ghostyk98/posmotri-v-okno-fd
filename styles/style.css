@@ -64,7 +64,7 @@ ol {
 }
 
 .result {
-  padding-bottom: 45px;
+  padding-bottom: 60px;
 }
 
 .result__video-container {
@@ -92,7 +92,7 @@ ol {
 .search-form__fieldset {
   border: none;
   padding: 0;
-  margin: 10px 0 0 0;
+  margin: 0;
 }
 
 .search-form__fieldset-title {
@@ -333,7 +333,6 @@ ol {
 .search-form__submit-button {
   align-self: flex-end;
   width: 194px;
-  margin-top: 10px;
 }
 
 .more-button {
