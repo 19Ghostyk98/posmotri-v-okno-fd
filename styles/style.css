@@ -87,7 +87,7 @@ ol {
   gap: 10px;
   width: 711px;
   margin-top: 16px;
-  margin-bottom: 1px;
+  margin-bottom: 0px;
 }
 
 .search-form__fieldset {
@@ -176,7 +176,7 @@ ol {
   gap: 26px;
   width: 100%;
   max-width: 399px;
-  padding-bottom: 3px;
+  padding-bottom: 0px;
 }
 
 .title {
