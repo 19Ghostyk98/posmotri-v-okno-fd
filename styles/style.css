@@ -18,6 +18,7 @@ html {
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+  align-content: center;
 }
 
 h1,
@@ -58,8 +59,7 @@ ol {
   gap: 30px;
   width: 100%;
   max-width: 1140px;
-  margin-top: 121px;
-  padding-bottom: 50px;
+  margin-top: 7px;
 }
 
 .result {
@@ -86,7 +86,6 @@ ol {
   gap: 10px;
   width: 711px;
   margin-top: 20px;
-  margin-bottom: 10px;
 }
 
 .search-form__fieldset {
@@ -175,7 +174,7 @@ ol {
   gap: 26px;
   width: 100%;
   max-width: 399px;
-  padding-bottom: 15px;
+  padding-bottom: 6px;
 }
 
 .title {
